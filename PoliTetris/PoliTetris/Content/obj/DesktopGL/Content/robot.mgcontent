@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/robot.mp3</SourceFile>
+  <SourceTime>2022-05-31T22:36:53.1601974+02:00</SourceTime>
+  <DestFile>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/bin/DesktopGL/Content/robot.xnb</DestFile>
+  <DestTime>2022-05-31T22:43:55.9836474+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/bin/DesktopGL/Content/robot.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

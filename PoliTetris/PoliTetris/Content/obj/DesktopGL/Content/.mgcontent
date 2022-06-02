@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/15.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/alarm.wav</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/background_blocks.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/background_level.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/ball.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/effect.fx</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/font_blox.spritefont</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/pause.jpg</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/robot.mp3</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/spr_clouds.jpg</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/Tiles/1.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/Tiles/14.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/Tiles/2.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/Tiles/3.png</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/tlo.jpg</File>
+    <File>C:/Users/czelu/OneDrive/Pulpit/PoliTetris/PoliTetris/PoliTetris/Content/tlo_tetris.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FChM5x0UcFNs2w2o4rg27M5KXf9W0FErftGmwJKT4KMOSG4Nfn9nZFDfX64KsDKTyPpqpQQISwaEpPy/ZqyIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\czelu\\OneDrive\\Pulpit\\PoliTetris\\PoliTetris\\PoliTetris\\PoliTetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czelu\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\czelu\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
